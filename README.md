@@ -62,6 +62,7 @@ Uses only Python standard library modules:
 
 Clone the repository:
 git clone https://github.com/yourusername/GhostQuery.git
+
 cd GhostQuery
 
 Or simply download `ghostquery.py`.
@@ -116,4 +117,5 @@ GhostQuery/
 This tool is intended for educational, research, and authorized OSINT usage only.
 
 The developer is not responsible for misuse or unauthorized activities performed using this tool.
+
 
