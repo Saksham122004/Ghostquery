@@ -1,0 +1,9 @@
+flask
+requests
+rich
+colorama
+webbrowser
+urllib
+sys
+time
+os
