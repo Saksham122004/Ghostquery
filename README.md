@@ -61,7 +61,7 @@ Uses only Python standard library modules:
 ## Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/GhostQuery.git
+git clone https://github.com/Saksham122004/Ghostquery.git
 
 cd GhostQuery
 
@@ -101,6 +101,7 @@ Filetype: pdf
 This tool is intended for educational, research, and authorized OSINT usage only.
 
 The developer is not responsible for misuse or unauthorized activities performed using this tool.
+
 
 
 
