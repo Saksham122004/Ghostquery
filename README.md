@@ -96,26 +96,11 @@ Site: example.com
 Filetype: pdf
 
 
-Generated query:
-
-
----
-
-## Project Structure
-GhostQuery/
-│
-├── ghostquery.py
-├── README.md
-└── requirements.txt
-
-
-
----
-
 ## Disclaimer
 
 This tool is intended for educational, research, and authorized OSINT usage only.
 
 The developer is not responsible for misuse or unauthorized activities performed using this tool.
+
 
 
